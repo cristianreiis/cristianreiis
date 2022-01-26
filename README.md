@@ -30,4 +30,7 @@ Deixa eu me apresentar.  Me chamo CRISTIAN REIS, apaixonado por tecnologia e pro
   <a href="https://www.instagram.com/cristian_reis_duarte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cristianreisapduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cristian-reis-a76366190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://cristianreisdesigner.myportfolio.com/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
+  
+  </div>
  
